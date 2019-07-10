@@ -12,7 +12,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Black Summer](https://www.netflix.com/title/80198988) | 1 | 7 |
 | [Bonding](https://www.netflix.com/title/81004814) | 1 | 3 |
 | [Daredevil](https://www.netflix.com/title/80018294) | 2 | 6 |
-| [Dark](https://www.netflix.com/title/80100172) | 1 | 8 |
+| [Dark](https://www.netflix.com/title/80100172) | 2 | 8 |
 | [Designated Survivor](https://www.netflix.com/title/80113647) | 2 | 7 |
 | [Disincanto](https://www.netflix.com/title/80095697) | 1 | 7 |
 | [Elite](https://www.netflix.com/title/80200942) | 1 | 8 |
@@ -33,7 +33,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Quicksand](https://www.netflix.com/title/80211703) | 1 | 7 |
 | [Shooter](https://www.netflix.com/title/80109194) | 3 | 7 |
 | [Slasher](https://www.netflix.com/title/80105452) | 1 | 4 |
-| [Stranger Things](https://www.netflix.com/title/80057281) | 2 | 7 |
+| [Stranger Things](https://www.netflix.com/title/80057281) | 3 | 8 |
 | [Suburra](https://www.netflix.com/title/80081537) | 2 | 8 |
 | [The 100](https://www.netflix.com/title/70283264) | 1 | 5 |
 | [The Mantis](https://www.netflix.com/title/80208337) | 1 | 6 |
@@ -44,6 +44,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [The Rain](https://www.netflix.com/title/80154610) | 2 | 7 |
 | [The Society](https://www.netflix.com/title/80197989) | 1 | 7 |
 | [Travelers](https://www.netflix.com/title/80105699) | 1 | 5 |
+| [Trinkets](https://www.netflix.com/title/80230561) | 1 | 5 |
 | [Under the Dome](https://www.netflix.com/title/70280925) | 3 | 5 |
 | [Undercover](https://www.netflix.com/title/80225312) | 1 | 6 |
 | [You vs. Wild](https://www.netflix.com/title/80227574) | 1 | 7 |

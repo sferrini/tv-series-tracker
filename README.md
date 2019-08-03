@@ -5,6 +5,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | Title | Season | Rating (1-10) |
 |:-----:|:------:|:-------------:|
 | [Altered Carbon](https://www.netflix.com/title/80097140) | 1 | 7 |
+| [Another Life](https://www.netflix.com/title/80236236) | 1 | - |
 | [Baby](https://www.netflix.com/title/80211634) | 1 | 8 |
 | [Better Call Saul](https://www.netflix.com/title/80021955) | 1 | 5 |
 | [Between](https://www.netflix.com/title/80022632) | 2 | 6 |
@@ -26,14 +27,14 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Limitless](https://www.netflix.com/title/80065182) | 1 | 7 |
 | [Luke Cage](https://www.netflix.com/title/80002537) | 1 | 7 |
 | [Mindhunter](https://www.netflix.com/title/80114855) | 1 | 6 |
-| [Money Heist](https://www.netflix.com/title/80192098) | 2 | 8 |
+| [Money Heist](https://www.netflix.com/title/80192098) | 3 | 9 |
 | [Narcos](https://www.netflix.com/title/80025172) | 1 | 8 |
 | [Orphan Black](https://www.netflix.com/title/70276033) | 2 | 6 |
 | [Ozark](https://www.netflix.com/title/80117552) | 2 | 7 |
 | [Quicksand](https://www.netflix.com/title/80211703) | 1 | 7 |
 | [Shooter](https://www.netflix.com/title/80109194) | 3 | 7 |
 | [Slasher](https://www.netflix.com/title/80105452) | 1 | 4 |
-| [Stranger Things](https://www.netflix.com/title/80057281) | 3 | 8 |
+| [Stranger Things](https://www.netflix.com/title/80057281) | 3 | 9 |
 | [Suburra](https://www.netflix.com/title/80081537) | 2 | 8 |
 | [The 100](https://www.netflix.com/title/70283264) | 1 | 5 |
 | [The Mantis](https://www.netflix.com/title/80208337) | 1 | 6 |

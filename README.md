@@ -5,7 +5,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | Title | Season | Rating (1-10) |
 |:-----:|:------:|:-------------:|
 | [Altered Carbon](https://www.netflix.com/title/80097140) | 1 | 7 |
-| [Another Life](https://www.netflix.com/title/80236236) | 1 | - |
+| [Another Life](https://www.netflix.com/title/80236236) | 1 | 6 |
 | [Baby](https://www.netflix.com/title/80211634) | 1 | 8 |
 | [Better Call Saul](https://www.netflix.com/title/80021955) | 1 | 5 |
 | [Between](https://www.netflix.com/title/80022632) | 2 | 6 |

@@ -8,6 +8,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Another Life](https://www.netflix.com/title/80236236) | 1 | 6 |
 | [Baby](https://www.netflix.com/title/80211634) | 1 | 8 |
 | [Better Call Saul](https://www.netflix.com/title/80021955) | 1 | 5 |
+| [Better Than Us](https://www.netflix.com/title/81026915) | 1 | 8 |
 | [Between](https://www.netflix.com/title/80022632) | 2 | 6 |
 | [Black Mirror](https://www.netflix.com/title/70264888) | 5 | 8 |
 | [Black Summer](https://www.netflix.com/title/80198988) | 1 | 7 |

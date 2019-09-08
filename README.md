@@ -29,7 +29,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Limitless](https://www.netflix.com/title/80065182) | 1 | 7 |
 | [Luke Cage](https://www.netflix.com/title/80002537) | 1 | 7 |
 | [Mindhunter](https://www.netflix.com/title/80114855) | 1 | 6 |
-| [Money Heist](https://www.netflix.com/title/80192098) | 3 | 9 |
+| [Money Heist (Casa de Papel)](https://www.netflix.com/title/80192098) | 3 | 9 |
 | [Narcos](https://www.netflix.com/title/80025172) | 1 | 8 |
 | [Orphan Black](https://www.netflix.com/title/70276033) | 2 | 6 |
 | [Ozark](https://www.netflix.com/title/80117552) | 2 | 7 |

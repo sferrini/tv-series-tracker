@@ -13,11 +13,12 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Black Mirror](https://www.netflix.com/title/70264888) | 5 | 8 |
 | [Black Summer](https://www.netflix.com/title/80198988) | 1 | 7 |
 | [Bonding](https://www.netflix.com/title/81004814) | 1 | 3 |
+| [Breaking Bad](https://www.netflix.com/title/70143836) | 5 | 10 |
 | [Daredevil](https://www.netflix.com/title/80018294) | 2 | 6 |
 | [Dark](https://www.netflix.com/title/80100172) | 2 | 8 |
 | [Designated Survivor](https://www.netflix.com/title/80113647) | 2 | 7 |
 | [Disincanto](https://www.netflix.com/title/80095697) | 1 | 7 |
-| [Elite](https://www.netflix.com/title/80200942) | 1 | 8 |
+| [Elite](https://www.netflix.com/title/80200942) | 2 | 8 |
 | [Glitch](https://www.netflix.com/title/80108495) | 1 | 8 |
 | [Good Girls](https://www.netflix.com/title/80177342) | 1 | 2 |
 | [Gotham](https://www.netflix.com/title/80020542) | 1 | 7 |
@@ -38,6 +39,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Stranger Things](https://www.netflix.com/title/80057281) | 3 | 9 |
 | [Suburra](https://www.netflix.com/title/80081537) | 2 | 8 |
 | [The 100](https://www.netflix.com/title/70283264) | 1 | 5 |
+| [The A List](https://www.netflix.com/title/80196382) | 1 | 7 |
 | [The Mantis](https://www.netflix.com/title/80208337) | 1 | 6 |
 | [The Mist](https://www.netflix.com/title/80135414) | 1 | 7 |
 | [The OA](https://www.netflix.com/title/80044950) | 1 | 8 |

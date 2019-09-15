@@ -32,6 +32,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Money Heist (Casa de Papel)](https://www.netflix.com/title/80192098) | 3 | 9 |
 | [Narcos](https://www.netflix.com/title/80025172) | 1 | 8 |
 | [Orphan Black](https://www.netflix.com/title/70276033) | 2 | 6 |
+| [Osmosis](https://www.netflix.com/title/80189898) | 1 | 6 |
 | [Ozark](https://www.netflix.com/title/80117552) | 2 | 7 |
 | [Quicksand](https://www.netflix.com/title/80211703) | 1 | 7 |
 | [Shooter](https://www.netflix.com/title/80109194) | 3 | 7 |

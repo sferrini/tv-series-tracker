@@ -17,7 +17,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Daredevil](https://www.netflix.com/title/80018294) | 2 | 6 |
 | [Dark](https://www.netflix.com/title/80100172) | 2 | 8 |
 | [Designated Survivor](https://www.netflix.com/title/80113647) | 2 | 7 |
-| [Disincanto](https://www.netflix.com/title/80095697) | 1 | 7 |
+| [Disincanto](https://www.netflix.com/title/80095697) | 2 | 7 |
 | [Elite](https://www.netflix.com/title/80200942) | 2 | 8 |
 | [Glitch](https://www.netflix.com/title/80108495) | 1 | 8 |
 | [Good Girls](https://www.netflix.com/title/80177342) | 1 | 2 |
@@ -41,6 +41,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Suburra](https://www.netflix.com/title/80081537) | 2 | 8 |
 | [The 100](https://www.netflix.com/title/70283264) | 1 | 5 |
 | [The A List](https://www.netflix.com/title/80196382) | 1 | 7 |
+| [The I-Land](https://www.netflix.com/title/80993078) | 1 | 7 |
 | [The Mantis](https://www.netflix.com/title/80208337) | 1 | 6 |
 | [The Mist](https://www.netflix.com/title/80135414) | 1 | 7 |
 | [The OA](https://www.netflix.com/title/80044950) | 1 | 8 |

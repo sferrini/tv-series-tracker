@@ -22,12 +22,14 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Glitch](https://www.netflix.com/title/80108495) | 1 | 8 |
 | [Good Girls](https://www.netflix.com/title/80177342) | 1 | 2 |
 | [Gotham](https://www.netflix.com/title/80020542) | 1 | 7 |
-| [High Seas](https://www.netflix.com/title/80233258) | 1 | 7 |
+| [High Seas](https://www.netflix.com/title/80233258) | 2 | 7 |
 | [How to Get Away with Murder](https://www.netflix.com/title/80024057) | 3 | 8 |
 | [Iron Fist](https://www.netflix.com/title/80002612) | 1 | 7 |
 | [Jessica Jones](https://www.netflix.com/title/80002311) | 2 | 6 |
 | [Limitless](https://www.netflix.com/title/80065182) | 1 | 7 |
+| [Locke & Key](https://www.netflix.com/title/80241239) | 1 | 6 |
 | [Luke Cage](https://www.netflix.com/title/80002537) | 1 | 7 |
+| [Messiah](https://www.netflix.com/title/80117557) | 1 | 8 |
 | [Mindhunter](https://www.netflix.com/title/80114855) | 1 | 6 |
 | [Money Heist (Casa de Papel)](https://www.netflix.com/title/80192098) | 3 | 9 |
 | [Narcos](https://www.netflix.com/title/80025172) | 1 | 8 |
@@ -35,8 +37,10 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Osmosis](https://www.netflix.com/title/80189898) | 1 | 6 |
 | [Ozark](https://www.netflix.com/title/80117552) | 2 | 7 |
 | [Quicksand](https://www.netflix.com/title/80211703) | 1 | 7 |
+| [Raising Dion](https://www.netflix.com/title/80117803) | 1 | 7 |
 | [Shooter](https://www.netflix.com/title/80109194) | 3 | 7 |
 | [Slasher](https://www.netflix.com/title/80105452) | 1 | 4 |
+| [Spinning Out](https://www.netflix.com/title/80201590) | 1 | 6 |
 | [Stranger Things](https://www.netflix.com/title/80057281) | 3 | 9 |
 | [Suburra](https://www.netflix.com/title/80081537) | 2 | 8 |
 | [The 100](https://www.netflix.com/title/70283264) | 1 | 5 |
@@ -49,6 +53,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [The Punisher](https://www.netflix.com/title/80117498) | 1 | 7 |
 | [The Rain](https://www.netflix.com/title/80154610) | 2 | 7 |
 | [The Society](https://www.netflix.com/title/80197989) | 1 | 7 |
+| [The Stranger](https://www.netflix.com/title/81001209) | 1 | 7 |
 | [Travelers](https://www.netflix.com/title/80105699) | 1 | 5 |
 | [Trinkets](https://www.netflix.com/title/80230561) | 1 | 5 |
 | [Under the Dome](https://www.netflix.com/title/70280925) | 3 | 5 |

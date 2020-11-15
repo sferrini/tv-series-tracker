@@ -44,9 +44,11 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Slasher](https://www.netflix.com/title/80105452) | 1 | 4 |
 | [Spinning Out](https://www.netflix.com/title/80201590) | 1 | 6 |
 | [Stranger Things](https://www.netflix.com/title/80057281) | 3 | 9 |
-| [Suburra](https://www.netflix.com/title/80081537) | 2 | 8 |
+| [Suburra](https://www.netflix.com/title/80081537) | 3 | 8 |
+| [To the Lake](https://www.netflix.com/title/81302258) | 1 | 7 |
 | [The 100](https://www.netflix.com/title/70283264) | 1 | 5 |
 | [The A List](https://www.netflix.com/title/80196382) | 1 | 7 |
+| [The Haunting of Bly Manor](https://www.netflix.com/title/81237854) | 1 | 8 |
 | [The Haunting of Hill House](https://www.netflix.com/title/80189221) | 1 | 8 |
 | [The I-Land](https://www.netflix.com/title/80993078) | 1 | 7 |
 | [The Mantis](https://www.netflix.com/title/80208337) | 1 | 6 |
@@ -62,5 +64,5 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [Travelers](https://www.netflix.com/title/80105699) | 1 | 5 |
 | [Trinkets](https://www.netflix.com/title/80230561) | 1 | 5 |
 | [Under the Dome](https://www.netflix.com/title/70280925) | 3 | 5 |
-| [Undercover](https://www.netflix.com/title/80225312) | 1 | 6 |
+| [Undercover](https://www.netflix.com/title/80225312) | 2 | 6 |
 | [You vs. Wild](https://www.netflix.com/title/80227574) | 1 | 7 |

@@ -57,6 +57,7 @@ Tracker for the TV series I'm watching/watched on Netflix or other streaming pla
 | [The OA](https://www.netflix.com/title/80044950) | 1 | 8 |
 | [The Order](https://www.netflix.com/title/80238357) | 1 | 5 |
 | [The Punisher](https://www.netflix.com/title/80117498) | 1 | 7 |
+| [The Queen's Gambit](https://www.netflix.com/title/80234304) | 1 | 8 |
 | [The Rain](https://www.netflix.com/title/80154610) | 3 | 7 |
 | [The Society](https://www.netflix.com/title/80197989) | 1 | 7 |
 | [The Stranger](https://www.netflix.com/title/81001209) | 1 | 7 |
